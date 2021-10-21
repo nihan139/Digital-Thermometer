@@ -2,6 +2,12 @@
  PSpice Project
 
 
+Schematic Diagram
+
+![](images/full_ckt.png)
+
+
+
 Temperature Sweep
 
 ![](images/Result.png)
